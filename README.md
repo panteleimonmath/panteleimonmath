@@ -9,7 +9,7 @@
 
 <img src="https://user-images.githubusercontent.com/124818321/220197365-a2801fcf-ff16-46bb-b89a-8c9dcd454de2.png" align="center" width="1200" height="140"/>
 
-\a
+
 
 <a href="https://www.linkedin.com/in/panteleimon-mathioudakis-03954b268?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKVGuUX3JQT2cS3dfrQ2nGw%3D%3D">
 <p align="center">
