@@ -7,15 +7,23 @@
 <p>
  -->
 
+
 <img src="https://user-images.githubusercontent.com/124818321/220197365-a2801fcf-ff16-46bb-b89a-8c9dcd454de2.png" align="center" width="1200" height="140"/>
 
+<div align="center">
+ 
+ <a href="mailto:mathew117g@gmail.com">![Gmail Badge](https://img.shields.io/badge/-mathew117g@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mathew117g@gmail.com)</a>
+ <a href="https://www.linkedin.com/in/panteleimon-mathioudakis-03954b268?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKVGuUX3JQT2cS3dfrQ2nGw%3D%3D">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)</a>
 
+</div>
 
+<!--
 <a href="https://www.linkedin.com/in/panteleimon-mathioudakis-03954b268?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKVGuUX3JQT2cS3dfrQ2nGw%3D%3D">
 <p align="center">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 </a>
+-->
 
 <!--
 **panteleimonmath/panteleimonmath** is a āØ _special_ āØ repository because its `README.md` (this file) appears on your GitHub profile.
