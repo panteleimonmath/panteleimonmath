@@ -65,10 +65,14 @@ i love working with data and using it to create Statistical and Machine Learning
 <img src = "https://user-images.githubusercontent.com/124818321/228042688-6cee6a48-8efa-48a7-9b0e-a4b9b21c6eb1.svg" width = 45px > &nbsp
 <img src = "https://user-images.githubusercontent.com/124818321/228042983-4bcb5fb6-ee3a-409b-91d9-8ca1c3546be4.svg" width = 45px > &nbsp
 <img src = "https://user-images.githubusercontent.com/124818321/228058153-b5ce5a9b-18f3-405b-8117-ad7075457d63.svg" width = 45px > &nbsp
-<img src = "https://user-images.githubusercontent.com/124818321/228054481-9ea4b882-286f-4210-93e8-74a4257bff8e.svg" width = 45px > &nbsp
+<!---
+ <img src = "https://user-images.githubusercontent.com/124818321/228054481-9ea4b882-286f-4210-93e8-74a4257bff8e.svg" width = 45px > &nbsp
+ --->
 <img src = "https://user-images.githubusercontent.com/124818321/228042771-39f8c535-32d0-4f9f-9cc1-d6e0d52c6940.svg" width = 45px > &nbsp
 <img src = "https://user-images.githubusercontent.com/124818321/228061538-dda476f5-9223-45f5-a12c-987c3be7a400.svg" width = 45px > &nbsp
-<img src = "https://user-images.githubusercontent.com/124818321/228059356-9ddc7c48-d58e-4e8a-89ef-0d794868e92d.svg" width = 115px >&nbsp
+<!---
+ <img src = "https://user-images.githubusercontent.com/124818321/228059356-9ddc7c48-d58e-4e8a-89ef-0d794868e92d.svg" width = 115px >&nbsp
+ --->
 <img src = "https://user-images.githubusercontent.com/124818321/228042909-f7a62813-d8ac-4c73-970a-712605435e61.png" width = 45px > &nbsp
 </p>
 
