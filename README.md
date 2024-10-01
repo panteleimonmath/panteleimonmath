@@ -12,7 +12,7 @@
 
 <div align="center">
  
- <a href="mailto:mathew117g@gmail.com">![Gmail Badge](https://img.shields.io/badge/-mathew117g@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mathew117g@gmail.com)</a>
+ <a href="mailto:mathew117g@gmail.com">![Gmail Badge](https://img.shields.io/badge/-mathew117g@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:panteleimon.math@outlook.com)</a>
  <a href="https://www.linkedin.com/in/panteleimon-mathioudakis-03954b268?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKVGuUX3JQT2cS3dfrQ2nGw%3D%3D">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)</a>
 
 </div>
