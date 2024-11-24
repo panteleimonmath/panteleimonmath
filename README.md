@@ -44,14 +44,14 @@ Here are some ideas to get you started:
 <img align="right" src="https://user-images.githubusercontent.com/124818321/221349004-e1f2b719-6808-4a67-9315-fbe13a16663d.svg" width="360px"/>
 
 ### 📝 About me
-i love working with data and using it to create Statistical and Machine Learning models to extract knowledge and useful information. I'm always trying to stay up to date with the advances in the field of data science and learning new stuff. Last but not least, knowing that team effort is very important, i'm very eager to communicate and work with a team to achieve the best possible results. 
+I focus on working with data to create Statistical and Machine Learning models to extract knowledge and useful information. I'm always trying to stay up to date with the advances in the field of data science with the perspective of learning new methods of data analysis. Last but not least, knowing that team effort is very important, i definitely prioritize communication and team work to achieve the best possible results.
 
 ---
 
 ### 👨🏼‍💼 Scientific Methods i use
-* Statistics (Inferential, Predictive and Explanatory Models, Testing of Assumptions etc)
-* Machine Learning (Supervised and Unsupervised models, Neural Networks)
-* Data Visualization
+* Statistics (Inferential, Predictive and Explanatory Models, Hypothesis Testing etc)
+* Machine Learning (Supervised and Unsupervised models, Deep Learning)
+* Data Visualization (Python & R powerful visualization tools)
 
 ---
 
