@@ -43,38 +43,35 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://user-images.githubusercontent.com/124818321/221349004-e1f2b719-6808-4a67-9315-fbe13a16663d.svg" width="360px"/>
 
-### 📝 About me
-I focus on working with data to develop Statistical and Machine Learning models to extract knowledge and valuable insights. I'm constantly strive to stay up to date with the advances in the field of data science aiming to learn and apply new methods of data analysis. Last but not least, knowing that team effort is very important, I definitely prioritize communication and team work to achieve the best possible results.
+### 📝 About Me
+Data professional with a strong foundation in **Statistics** and **Machine Learning**.  
+Specializes in analyzing complex datasets to develop predictive and explanatory models that deliver actionable insights.  
+Committed to continuous learning, staying up-to-date with the latest developments in **Data Science**, and applying innovative methods in real-world projects.  
+Values **collaboration and effective communication** as essential drivers of successful outcomes.
+
 
 ---
 
-### 👨🏼‍💼 Scientific Methods i use
-* Statistics (Inferential, Predictive and Explanatory Models, Hypothesis Testing etc)
-* Machine Learning (Supervised and Unsupervised models, Deep Learning)
-* Data Visualization (Python & R visualization tools)
+### 👨🏼‍💼 Scientific Methods
+
+| Area | Skills & Techniques |
+|------|-------------------|
+| 📊 Statistical Analysis | Inferential, predictive, and explanatory models; hypothesis testing; regression; multivariate techniques |
+| 🤖 Machine Learning | Supervised & unsupervised learning; deep learning; model evaluation & optimization |
+| 📈 Data Visualization & Reporting | Python & R libraries for clear and impactful visual storytelling |
 
 ---
 
-### 🤖 Languages and Tools
+### 🤖 Languages & Tools
 
-<p align = "left">
-<img src = "https://user-images.githubusercontent.com/124818321/228042328-11cecf66-409d-4225-8e83-7dec0a5d30d2.svg" width = 45px/> &nbsp
-<img src = "https://user-images.githubusercontent.com/124818321/228053844-8f7ba0d4-1e56-445a-8329-9806997f8f6f.svg" width = 45px/> &nbsp
-<img src = "https://user-images.githubusercontent.com/124818321/228042513-1893c301-78f1-401a-9e98-e57e492031e8.svg" width = 45px > &nbsp
-<img src = "https://user-images.githubusercontent.com/124818321/228042639-5f056fcf-a0d4-4857-b82c-72682164c3b6.svg" width = 45px > &nbsp
-<img src = "https://user-images.githubusercontent.com/124818321/228042688-6cee6a48-8efa-48a7-9b0e-a4b9b21c6eb1.svg" width = 45px > &nbsp
-<img src = "https://user-images.githubusercontent.com/124818321/228042983-4bcb5fb6-ee3a-409b-91d9-8ca1c3546be4.svg" width = 45px > &nbsp
-<img src = "https://user-images.githubusercontent.com/124818321/228058153-b5ce5a9b-18f3-405b-8117-ad7075457d63.svg" width = 45px > &nbsp
-<!---
- <img src = "https://user-images.githubusercontent.com/124818321/228054481-9ea4b882-286f-4210-93e8-74a4257bff8e.svg" width = 45px > &nbsp
- --->
-<img src = "https://user-images.githubusercontent.com/124818321/228042771-39f8c535-32d0-4f9f-9cc1-d6e0d52c6940.svg" width = 45px > &nbsp
-<img src = "https://user-images.githubusercontent.com/124818321/228061538-dda476f5-9223-45f5-a12c-987c3be7a400.svg" width = 45px > &nbsp
-<!---
- <img src = "https://user-images.githubusercontent.com/124818321/228059356-9ddc7c48-d58e-4e8a-89ef-0d794868e92d.svg" width = 115px >&nbsp
- --->
-<img src = "https://user-images.githubusercontent.com/124818321/228042909-f7a62813-d8ac-4c73-970a-712605435e61.png" width = 45px > &nbsp
-</p>
+| Platform / Tool | Icon | Description |
+|-----------------|------|-------------|
+| <img src = "https://user-images.githubusercontent.com/124818321/228042328-11cecf66-409d-4225-8e83-7dec0a5d30d2.svg" width = 35px/> <img src = "https://user-images.githubusercontent.com/124818321/228053844-8f7ba0d4-1e56-445a-8329-9806997f8f6f.svg" width = 35px/> | Operating system for development and data workflows |
+| <img src = "https://user-images.githubusercontent.com/124818321/228042513-1893c301-78f1-401a-9e98-e57e492031e8.svg" width = 35px > <img src = "https://user-images.githubusercontent.com/124818321/228042639-5f056fcf-a0d4-4857-b82c-72682164c3b6.svg" width = 35px > | Programming language for data analysis, ML, and visualization |
+| <img src = "https://user-images.githubusercontent.com/124818321/228042688-6cee6a48-8efa-48a7-9b0e-a4b9b21c6eb1.svg" width = 35px > | Database querying and management |
+| <img src = "https://user-images.githubusercontent.com/124818321/228042983-4bcb5fb6-ee3a-409b-91d9-8ca1c3546be4.svg" width = 35px > <img src = "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width = 35px> | Version control system for collaboration |
+| <img src = "https://user-images.githubusercontent.com/124818321/228042771-39f8c535-32d0-4f9f-9cc1-d6e0d52c6940.svg" width = 35px > <img src = "https://user-images.githubusercontent.com/124818321/228061538-dda476f5-9223-45f5-a12c-987c3be7a400.svg" width = 35px > <img src = "https://user-images.githubusercontent.com/124818321/228042909-f7a62813-d8ac-4c73-970a-712605435e61.png" width = 35px > | Statistical analysis software |
+
 
 
 
