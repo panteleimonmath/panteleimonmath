@@ -56,20 +56,24 @@ Values **collaboration and effective communication** as essential drivers of suc
 
 | Area | Skills & Techniques |
 |------|-------------------|
-| 📊 Statistical Analysis | Inferential, predictive, and explanatory models; hypothesis testing; regression; multivariate techniques |
-| 🤖 Machine Learning | Supervised & unsupervised learning; deep learning; model evaluation & optimization |
+| 📊 Statistical Analysis | Inferential, predictive and explanatory models, multivariate techniques, hypothesis testing |
+| 🤖 Machine Learning | Supervised & unsupervised learning, deep learning, model evaluation and optimization |
 | 📈 Data Visualization & Reporting | Python & R libraries for clear and impactful visual storytelling |
+
 
 ---
 
+
 ### 🤖 Languages & Tools
 
-| Platform / Tool | Icon | Description |
-|-----------------|------|-------------|
-| <img src = "https://user-images.githubusercontent.com/124818321/228042328-11cecf66-409d-4225-8e83-7dec0a5d30d2.svg" width = 35px/> <img src = "https://user-images.githubusercontent.com/124818321/228053844-8f7ba0d4-1e56-445a-8329-9806997f8f6f.svg" width = 35px/> | Operating system for development and data workflows |
+
+
+| Platform / Tool | Description |
+|-----------------|-------------|
+| <img src = "https://user-images.githubusercontent.com/124818321/228053844-8f7ba0d4-1e56-445a-8329-9806997f8f6f.svg" width = 35px/> <img src = "https://user-images.githubusercontent.com/124818321/228042328-11cecf66-409d-4225-8e83-7dec0a5d30d2.svg" width = 35px/> | Operating systems |
 | <img src = "https://user-images.githubusercontent.com/124818321/228042513-1893c301-78f1-401a-9e98-e57e492031e8.svg" width = 35px > <img src = "https://user-images.githubusercontent.com/124818321/228042639-5f056fcf-a0d4-4857-b82c-72682164c3b6.svg" width = 35px > | Programming language for data analysis, ML, and visualization |
-| <img src = "https://user-images.githubusercontent.com/124818321/228042688-6cee6a48-8efa-48a7-9b0e-a4b9b21c6eb1.svg" width = 35px > | Database querying and management |
-| <img src = "https://user-images.githubusercontent.com/124818321/228042983-4bcb5fb6-ee3a-409b-91d9-8ca1c3546be4.svg" width = 35px > <img src = "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width = 35px> | Version control system for collaboration |
+| <img src = "https://user-images.githubusercontent.com/124818321/228042688-6cee6a48-8efa-48a7-9b0e-a4b9b21c6eb1.svg" width = 35px > | Database querying & management |
+| <img src = "https://user-images.githubusercontent.com/124818321/228042983-4bcb5fb6-ee3a-409b-91d9-8ca1c3546be4.svg" width = 35px > <img src = "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width = 35px> | Version control system & command line scripting  |
 | <img src = "https://user-images.githubusercontent.com/124818321/228042771-39f8c535-32d0-4f9f-9cc1-d6e0d52c6940.svg" width = 35px > <img src = "https://user-images.githubusercontent.com/124818321/228061538-dda476f5-9223-45f5-a12c-987c3be7a400.svg" width = 35px > <img src = "https://user-images.githubusercontent.com/124818321/228042909-f7a62813-d8ac-4c73-970a-712605435e61.png" width = 35px > | Statistical analysis software |
 
 
@@ -79,5 +83,5 @@ Values **collaboration and effective communication** as essential drivers of suc
 
 ### 💾 My top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=panteleimonmath&repo=M.Sc.-Thesis&theme=codeSTACKr&show_owner=true&hide_progress=true)](https://github.com/panteleimonmath/M.Sc.-Thesis) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=panteleimonmath&repo=Data-Mining-in-Bank-Marketing-Data&theme=codeSTACKr&show_owner=true&hide_progress=true)](https://github.com/panteleimonmath/Data-Mining-in-Bank-Marketing-Data) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=panteleimonmath&repo=Tourism-Expenditure-in-EU&theme=codeSTACKr&show_owner=true&hide_progress=true)](https://github.com/panteleimonmath/Tourism-Expenditure-in-EU) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=panteleimonmath&repo=Data-Analysis-with-R-Project&theme=codeSTACKr&show_owner=true&hide_progress=true)](https://github.com/panteleimonmath/Data-Analysis-with-R-Project) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=panteleimonmath&repo=Multivariate-Analysis-on-wine-data&theme=codeSTACKr&show_owner=true&hide_progress=true)](https://github.com/panteleimonmath/Multivariate-Analysis-on-wine-data)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=panteleimonmath&repo=Data-Mining-in-Bank-Marketing-Data&theme=codeSTACKr&show_owner=true&hide_progress=true)](https://github.com/panteleimonmath/Data-Mining-in-Bank-Marketing-Data) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=panteleimonmath&repo=Tourism-Expenditure-in-EU&theme=codeSTACKr&show_owner=true&hide_progress=true)](https://github.com/panteleimonmath/Tourism-Expenditure-in-EU) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=panteleimonmath&repo=Data-Analysis-with-R-Project&theme=codeSTACKr&show_owner=true&hide_progress=true)](https://github.com/panteleimonmath/Data-Analysis-with-R-Project) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=panteleimonmath&repo=Multivariate-Analysis-on-wine-data&theme=codeSTACKr&show_owner=true&hide_progress=true)](https://github.com/panteleimonmath/Multivariate-Analysis-on-wine-data)
 
